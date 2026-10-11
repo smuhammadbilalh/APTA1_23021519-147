@@ -1,7 +1,7 @@
 # C# Assignment 1 — Arrays & Methods
 
-[![C#](https://img.shields.io/badge/C%23-Console%20App-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![.NET](https://img.shields.io/badge/.NET-SDK-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-Console%20App-0a0a0a?style=flat-square&logo=dotnet&logoColor=fafafa)](#)
+[![.NET](https://img.shields.io/badge/.NET-SDK-0a0a0a?style=flat-square&logo=dotnet&logoColor=fafafa)](#)
 
 Coursework for **Advanced Programming Techniques (APT)** — Assignment 1, Roll No. 23021519-147.
 
